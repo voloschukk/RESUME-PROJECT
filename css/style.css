@@ -1,0 +1,158 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f5f7fa;
+    padding: 40px 20px 40px 20px;
+    font-family: Montserrat;
+    line-height: 24px;
+}
+
+.wrapper {
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.my-photo {
+    width: 370px;
+}
+
+.main-container {
+    padding: 110px 90px 110px 90px;
+}
+
+.container-in-sidebar {
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.container-in-sidebar-title {
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.contacts-link {
+    font-size: 14px;
+    font-weight: 400;
+    color: #8e949c;
+}
+
+.contacts-link-type {
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    margin-right: 10px;
+}
+
+.sidebar-item-li {
+    color: #e3630e;
+    margin-left: 15px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.sidebar-item-li-text {
+    color: #fff;
+}
+
+.profession{
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 23px;
+}
+
+.name{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+.description{
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+.container-in-main{
+    margin-bottom: 55px;
+}
+
+.container-in-main-title {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.container-in-main-text{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.container-in-main-link{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.container-in-main-ol{
+    font-weight: 700;
+    margin-left: 18px;
+}
+
+b{
+    color: black;
+}
+
+.place{
+    color: #ff6b08;
+}
+
+.company-title{
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+
+.main-ul{
+    margin-left: 18px;
+}
+
+.period{
+    font-weight: 400;
+    font-size: 12px;
+    color: #a8a8a8;
+    margin-bottom: 14px;
+}
+
+.dots{
+    font-weight: 100;
+}
+
+.vert-div{
+    color: black;
+    font-weight: 700;
+    margin: 0 5px 0 5px;
+}
+
+.company{
+    margin-bottom: 30px;
+}
